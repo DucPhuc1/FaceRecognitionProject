@@ -1,0 +1,70 @@
+[2025-04-10 20:51:55] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True, seed=1234)
+[2025-04-10 20:51:56] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-10 20:51:56] Train: 21000, Validation: 4500, Test: 4500
+[2025-04-10 20:53:53] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True, seed=1234)
+[2025-04-10 20:53:53] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-10 20:53:53] Train: 21000, Validation: 4500, Test: 4500
+[2025-04-10 20:55:08] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True, seed=1234)
+[2025-04-10 20:55:09] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-10 20:55:09] Train: 21000, Validation: 4500, Test: 4500
+[2025-04-10 21:05:53] Epoch [1/50] - Train Loss: 0.1095, Val Loss: 0.0636
+[2025-04-10 21:14:38] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True)
+[2025-04-10 21:14:38] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-10 21:14:38] Train: 21000, Validation: 4500, Test: 4500
+[2025-04-10 21:15:02] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True)
+[2025-04-10 21:15:02] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-10 21:15:02] Train: 21000, Validation: 4500, Test: 4500
+[2025-04-10 21:25:53] Epoch [1/50] - Train Loss: 0.1237, Val Loss: 0.0563
+[2025-04-10 21:37:06] Epoch [2/50] - Train Loss: 0.0609, Val Loss: 0.0500
+[2025-04-10 21:48:05] Epoch [3/50] - Train Loss: 0.0553, Val Loss: 0.0458
+[2025-04-10 21:59:02] Epoch [4/50] - Train Loss: 0.0526, Val Loss: 0.0454
+[2025-04-10 22:09:51] Epoch [5/50] - Train Loss: 0.0508, Val Loss: 0.0436
+[2025-04-10 22:20:44] Epoch [6/50] - Train Loss: 0.0499, Val Loss: 0.0436
+[2025-04-10 22:31:36] Epoch [7/50] - Train Loss: 0.0487, Val Loss: 0.0433
+[2025-04-10 22:42:31] Epoch [8/50] - Train Loss: 0.0479, Val Loss: 0.0420
+[2025-04-10 22:53:19] Epoch [9/50] - Train Loss: 0.0472, Val Loss: 0.0416
+[2025-04-10 23:04:12] Epoch [10/50] - Train Loss: 0.0468, Val Loss: 0.0407
+[2025-04-10 23:15:04] Epoch [11/50] - Train Loss: 0.0460, Val Loss: 0.0401
+[2025-04-10 23:25:56] Epoch [12/50] - Train Loss: 0.0459, Val Loss: 0.0406
+[2025-04-10 23:37:02] Epoch [13/50] - Train Loss: 0.0454, Val Loss: 0.0406
+[2025-04-10 23:48:02] Epoch [14/50] - Train Loss: 0.0450, Val Loss: 0.0397
+[2025-04-10 23:59:00] Epoch [15/50] - Train Loss: 0.0448, Val Loss: 0.0394
+[2025-04-11 00:09:49] Epoch [16/50] - Train Loss: 0.0444, Val Loss: 0.0409
+[2025-04-11 00:20:36] Epoch [17/50] - Train Loss: 0.0441, Val Loss: 0.0425
+[2025-04-11 00:31:21] Epoch [18/50] - Train Loss: 0.0438, Val Loss: 0.0392
+[2025-04-11 00:42:48] Epoch [19/50] - Train Loss: 0.0435, Val Loss: 0.0388
+[2025-04-11 00:53:49] Epoch [20/50] - Train Loss: 0.0434, Val Loss: 0.0392
+[2025-04-11 01:04:36] Epoch [21/50] - Train Loss: 0.0431, Val Loss: 0.0386
+[2025-04-11 01:15:20] Epoch [22/50] - Train Loss: 0.0430, Val Loss: 0.0400
+[2025-04-11 01:26:07] Epoch [23/50] - Train Loss: 0.0426, Val Loss: 0.0388
+[2025-04-11 01:36:57] Epoch [24/50] - Train Loss: 0.0426, Val Loss: 0.0388
+[2025-04-11 01:47:49] Epoch [25/50] - Train Loss: 0.0423, Val Loss: 0.0388
+[2025-04-11 01:58:39] Epoch [26/50] - Train Loss: 0.0421, Val Loss: 0.0381
+[2025-04-11 02:09:31] Epoch [27/50] - Train Loss: 0.0418, Val Loss: 0.0383
+[2025-04-11 02:20:22] Epoch [28/50] - Train Loss: 0.0419, Val Loss: 0.0384
+[2025-04-11 02:31:12] Epoch [29/50] - Train Loss: 0.0417, Val Loss: 0.0382
+[2025-04-11 02:42:04] Epoch [30/50] - Train Loss: 0.0414, Val Loss: 0.0378
+[2025-04-11 02:52:55] Epoch [31/50] - Train Loss: 0.0413, Val Loss: 0.0384
+[2025-04-11 03:03:48] Epoch [32/50] - Train Loss: 0.0414, Val Loss: 0.0377
+[2025-04-11 03:14:42] Epoch [33/50] - Train Loss: 0.0409, Val Loss: 0.0377
+[2025-04-11 03:25:35] Epoch [34/50] - Train Loss: 0.0410, Val Loss: 0.0381
+[2025-04-11 03:36:23] Epoch [35/50] - Train Loss: 0.0407, Val Loss: 0.0390
+[2025-04-11 03:47:12] Epoch [36/50] - Train Loss: 0.0405, Val Loss: 0.0380
+[2025-04-11 03:58:03] Epoch [37/50] - Train Loss: 0.0407, Val Loss: 0.0371
+[2025-04-11 04:08:53] Epoch [38/50] - Train Loss: 0.0405, Val Loss: 0.0377
+[2025-04-11 04:19:45] Epoch [39/50] - Train Loss: 0.0403, Val Loss: 0.0374
+[2025-04-11 04:30:33] Epoch [40/50] - Train Loss: 0.0402, Val Loss: 0.0378
+[2025-04-11 04:41:24] Epoch [41/50] - Train Loss: 0.0400, Val Loss: 0.0372
+[2025-04-11 04:52:14] Epoch [42/50] - Train Loss: 0.0398, Val Loss: 0.0377
+[2025-04-11 05:03:02] Epoch [43/50] - Train Loss: 0.0396, Val Loss: 0.0377
+[2025-04-11 05:13:55] Epoch [44/50] - Train Loss: 0.0381, Val Loss: 0.0365
+[2025-04-11 05:24:43] Epoch [45/50] - Train Loss: 0.0374, Val Loss: 0.0363
+[2025-04-11 05:35:35] Epoch [46/50] - Train Loss: 0.0371, Val Loss: 0.0363
+[2025-04-11 05:46:27] Epoch [47/50] - Train Loss: 0.0368, Val Loss: 0.0363
+[2025-04-11 05:57:17] Epoch [48/50] - Train Loss: 0.0367, Val Loss: 0.0364
+[2025-04-11 06:08:07] Epoch [49/50] - Train Loss: 0.0365, Val Loss: 0.0362
+[2025-04-11 06:18:55] Epoch [50/50] - Train Loss: 0.0364, Val Loss: 0.0365
+[2025-04-11 06:56:57] Hu\u1ea5n luy\u1ec7n hoàn thành. Mô hình t\u1ed1t nh\u1ea5t \u0111\u01b0\u1ee3c l\u01b0u t\u1ea1i: best_unet_model.pth
+[2025-04-12 08:56:34] Starting training with args: Namespace(dataset_mode='celeba', target_size=[256, 256], batch_size=4, num_epochs=50, train_split=0.7, val_split=0.15, test_split=0.15, lr=0.0001, weight_decay=1e-05, patience=10, face_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FacePhoto', face_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FacePhoto', family_img_folder='dataset/Face_Dataset/Pratheepan_Dataset/FamilyPhoto', family_mask_folder='dataset/Face_Dataset/Ground_Truth/GroundT_FamilyPhoto', imgs_folder='dataset/preprocessed/imgs', masks_folder='dataset/preprocessed/masks', is_train=True)
+[2025-04-12 08:56:35] T\u1ed5ng s\u1ed1 samples: 30000
+[2025-04-12 08:56:35] Train: 21000, Validation: 4500, Test: 4500
